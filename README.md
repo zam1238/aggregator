@@ -17,3 +17,6 @@
 ## 免责申明
 + 本项目仅用作学习爬虫技术，请勿滥用，不要通过此工具做任何违法乱纪或有损国家利益之事
 + 禁止使用该项目进行任何盈利活动，对一切非法使用所产生的后果，本人概不负责
+https://gist.github.com/
+https://github.com/settings/tokens?type=beta
+到仓库页面的Settings里设置环境变量，变量名为GIST_LINK和GIST_PAT
