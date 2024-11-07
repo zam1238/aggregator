@@ -15,9 +15,9 @@
 ## 使用方法
 > 略，自行探索。我才不会告诉你入口是 `collect.py` 和 `process.py`
 >
-> https://gist.github.com/
-https://github.com/settings/tokens?type=beta
-到仓库页面的Settings里设置环境变量，变量名为GIST_LINK和GIST_PAT
+>gist.github.com/
+>github.com/settings/tokens?type=beta
+>到仓库页面的Settings里设置环境变量，变量名为GIST_LINK和GIST_PAT
 
 ## 免责申明
 + 本项目仅用作学习爬虫技术，请勿滥用，不要通过此工具做任何违法乱纪或有损国家利益之事
