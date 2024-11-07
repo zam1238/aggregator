@@ -15,8 +15,10 @@
 ## 使用方法
 > 略，自行探索。我才不会告诉你入口是 `collect.py` 和 `process.py`
 >
->gist.github.com/
->github.com/settings/tokens?type=beta
+>https://gist.github.com/
+>
+>https://github.com/settings/tokens?type=beta
+> 
 >到仓库页面的Settings里设置环境变量，变量名为GIST_LINK和GIST_PAT
 
 ## 免责申明
